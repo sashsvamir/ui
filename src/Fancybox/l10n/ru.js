@@ -1,0 +1,17 @@
+export default {
+  CLOSE: "Закрыть",
+  NEXT: "Следующая",
+  PREV: "Предыдущая",
+  MODAL: "Вы можете закрыть данное окно кнопкой ESC",
+  ERROR: "Что-то пошло не так, попробуйте повторить позже",
+  IMAGE_ERROR: "Изображение не найдено",
+  ELEMENT_NOT_FOUND: "HTML элемент не найден",
+  AJAX_NOT_FOUND: "Ошибка загрузки AJAX : Не найдено",
+  AJAX_FORBIDDEN: "Ошибка загрузки AJAX : Запрещено",
+  IFRAME_ERROR: "Ошибка загрузки страницы",
+  TOGGLE_ZOOM: "Приближение (вкл/выкл)",
+  TOGGLE_THUMBS: "Предпросмотр (вкл/выкл)",
+  TOGGLE_SLIDESHOW: "Слайдшоу (вкл/выкл)",
+  TOGGLE_FULLSCREEN: "Переключить полный экран",
+  DOWNLOAD: "Скачать",
+};
